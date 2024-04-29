@@ -1,0 +1,35 @@
+.list-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.checkbox-input {
+  width: 20px;
+  height: 20px;
+  margin-right: 12px;
+}
+.label-container {
+  background-color: #e6f6ff;
+  width: 100%;
+  border-left: 5px solid #096f92;
+  height: 45px;
+  border-radius: 4px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.checkbox-label {
+  font-size: 19px;
+  font-weight: 400;
+  color: black;
+}
+.icons-container {
+  display: flex;
+  align-items: center;
+}
+.icon {
+  font-size: 20px;
+  margin-right: 20px;
+  outline: none;
+  cursor: pointer;  
+}
